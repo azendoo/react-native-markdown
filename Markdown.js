@@ -39,7 +39,7 @@ var styles = {
     fontStyle: 'italic',
   },
   heading: {
-    fontWeight: '200',
+    fontWeight: '400',
   },
   heading1: {
     fontSize: 32,
@@ -113,9 +113,9 @@ var styles = {
     marginBottom: 10,
     flexWrap: 'wrap',
     flexDirection: 'row',
-    textAlign: 'center',
+    textAlign: 'left',
     alignItems: 'flex-start',
-    justifyContent: 'center',
+    justifyContent: 'flex-start',
   },
   paragraphWithImage: {
     flex: 1,
